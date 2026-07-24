@@ -18,4 +18,4 @@ A portfolio project demonstrating an end-to-end analytics pipeline using Python,
 
 ## Status
 
-🚧 In Development
+In Development
