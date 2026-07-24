@@ -12,9 +12,11 @@ A portfolio project demonstrating an end-to-end analytics pipeline using Python,
 
 - Pandas
 
-- Power BI
+- Power BI*
 
 - Git
+
+- Docker
 
 ## Status
 
