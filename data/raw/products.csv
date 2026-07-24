@@ -1,0 +1,501 @@
+product_id,product_name,category,supplier,cost,price,stock_quantity,created_at
+1,Monitor,Electronics,Bryan Group,591.38,721.67,10,2026-01-17
+2,Wireless Mouse,Electronics,Mcdonald Group,102.01,147.45,108,2025-03-11
+3,Machine Learning Basics,Books,Salazar and Sons,52.92,73.51,858,2024-09-27
+4,Webcam,Electronics,"Manning, Baldwin and Cooper",522.41,655.83,10,2025-12-17
+5,Microwave,Home,Vega LLC,293.51,474.73,158,2025-07-03
+6,Business Analytics,Books,Alvarez-Peters,412.38,588.52,28,2026-04-06
+7,Artificial Intelligence,Books,Simpson Inc,237.64,403.03,175,2025-11-20
+8,Desk Organizer,Office,"Miller, Alvarez and Booth",578.23,1013.23,24,2023-09-15
+9,Treadmill,Sports,Green LLC,540.33,989.38,56,2024-10-05
+10,Toaster,Home,Fisher-Gillespie,98.33,118.5,575,2024-04-12
+11,Business Analytics,Books,"Hicks, Greene and White",552.35,790.04,14,2025-08-16
+12,Machine Learning Basics,Books,Larson-Castillo,485.18,649.32,44,2024-01-10
+13,Bluetooth Speaker,Electronics,"Coleman, Nelson and Smith",122.35,152.98,101,2026-06-19
+14,Business Analytics,Books,Hayes-Myers,528.41,906.81,50,2025-02-05
+15,Air Fryer,Home,Mitchell-Allen,44.8,80.22,292,2024-12-05
+16,Machine Learning Basics,Books,Howell-Sandoval,255.07,405.98,102,2026-06-18
+17,Cloud Computing,Books,Allison PLC,213.55,347.23,170,2024-11-27
+18,Dumbbell Set,Sports,Robinson-Bush,402.44,539.89,21,2024-07-31
+19,Ceiling Fan,Home,Nguyen-Lopez,283.91,399.82,142,2026-05-28
+20,Data Engineering,Books,Watts-Miller,295.46,444.11,196,2023-11-15
+21,Webcam,Electronics,"Morgan, Byrd and Newton",94.04,119.64,994,2026-01-30
+22,Water Bottle,Sports,"English, Howard and White",540.79,888.54,56,2024-04-19
+23,Monitor,Electronics,Lloyd-Wong,41.33,78.33,935,2024-10-13
+24,Dumbbell Set,Sports,Rich-Rodriguez,390.8,523.84,39,2026-01-17
+25,Standing Desk,Office,Willis Ltd,271.31,481.24,105,2024-07-30
+26,Business Analytics,Books,Gentry-Lara,574.45,1114.93,30,2023-08-28
+27,Office Chair,Office,Cole-Jackson,101.56,199.48,104,2026-05-22
+28,Running Shoes,Sports,Miller Group,573.65,1024.68,30,2024-08-27
+29,SQL Fundamentals,Books,Warner LLC,387.81,538.67,45,2025-08-19
+30,Standing Desk,Office,Compton-Smith,539.06,787.07,33,2024-10-15
+31,Standing Desk,Office,"Meyer, Middleton and Hooper",198.92,388.24,118,2026-02-13
+32,Dumbbell Set,Sports,Harper Group,298.57,512.25,176,2025-08-29
+33,Office Chair,Office,Barrera-Patrick,486.86,697.12,11,2026-03-16
+34,Project Management,Books,"Moore, Bernard and Henson",164.01,230.13,177,2026-01-01
+35,SQL Fundamentals,Books,"Carroll, Burgess and Collier",116.47,181.4,199,2025-09-11
+36,Yoga Mat,Sports,Guzman-Savage,120.21,161.02,67,2024-07-22
+37,Notebook,Office,"Frank, Beck and Mitchell",205.35,355.95,169,2025-08-22
+38,Cloud Computing,Books,Moreno-King,434.07,595.28,55,2026-05-02
+39,Vacuum Cleaner,Home,"Long, Garcia and Roberts",351.95,579.54,43,2025-04-08
+40,Office Chair,Office,"Schultz, Brown and Gonzalez",98.05,181.38,970,2024-02-20
+41,Bluetooth Speaker,Electronics,Taylor-Wilkerson,478.01,725.48,60,2024-11-18
+42,USB-C Hub,Electronics,Horne and Sons,112.23,213.99,117,2023-08-20
+43,Cloud Computing,Books,"Schmidt, Johnson and Barnes",367.88,718.02,39,2024-04-22
+44,Cloud Computing,Books,French Inc,216.09,295.71,145,2024-08-08
+45,Project Management,Books,Parks-Adams,118.95,203.4,150,2025-07-23
+46,Wireless Mouse,Electronics,"Riggs, White and Buchanan",129.18,183.76,127,2026-02-13
+47,Whiteboard,Office,Rivera LLC,390.79,723.64,60,2024-08-01
+48,Project Management,Books,"Harris, Lopez and Watkins",74.59,93.47,366,2024-12-19
+49,Desk Lamp,Office,"Adkins, Schwartz and Ramirez",23.48,30.98,791,2025-05-30
+50,Paper Shredder,Office,"Baker, Pratt and Ortiz",401.76,511.83,22,2025-01-24
+51,Basketball,Sports,Wallace-Johnson,395.72,707.52,22,2024-05-23
+52,USB-C Hub,Electronics,"Henry, Peterson and Chase",547.88,910.16,40,2026-04-25
+53,USB-C Hub,Electronics,Robertson and Sons,415.2,664.28,48,2025-08-15
+54,Bluetooth Speaker,Electronics,"Mcintyre, Shaw and Johnson",244.71,417.63,88,2024-05-18
+55,USB-C Hub,Electronics,"Murphy, Parrish and Moore",102.87,194.77,167,2023-09-15
+56,Treadmill,Sports,Nicholson Group,454.07,595.61,17,2024-08-18
+57,SQL Fundamentals,Books,"White, Ramirez and Burke",78.4,118.08,307,2023-11-26
+58,Office Chair,Office,Alexander-Johnson,34.69,58.77,232,2025-10-02
+59,Running Shoes,Sports,"Stephens, Johnson and Wagner",436.57,754.99,43,2024-04-17
+60,Football,Sports,Robinson-Guerrero,126.79,215.34,104,2023-09-27
+61,External SSD,Electronics,"White, Butler and Moore",347.41,536.8,31,2024-07-10
+62,Notebook,Office,"Orozco, Robinson and Ferguson",399.6,625.08,52,2023-12-15
+63,Air Fryer,Home,Stark Inc,98.28,179.66,380,2024-09-09
+64,Gaming Keyboard,Electronics,Nicholson-Ayala,177.83,325.76,151,2024-11-29
+65,Business Analytics,Books,Palmer-Mora,553.94,1045.77,46,2025-11-20
+66,Vacuum Cleaner,Home,Lopez-Walker,98.58,140.91,331,2025-10-02
+67,USB-C Hub,Electronics,Sparks Inc,423.37,632.25,32,2024-08-28
+68,Dumbbell Set,Sports,Brown-Ayers,488.17,873.23,10,2025-11-12
+69,Paper Shredder,Office,Lester PLC,85.64,150.35,708,2024-11-21
+70,Gaming Keyboard,Electronics,Sims-Johnson,145.03,226.68,86,2025-04-22
+71,Blender,Home,"Sanchez, Bell and Leonard",260.08,386.79,133,2025-10-26
+72,Project Management,Books,"Franklin, Palmer and Thomas",238.55,431.79,83,2024-12-19
+73,Notebook,Office,"Lawrence, Rodriguez and Olsen",163.02,205.4,89,2025-08-26
+74,Bluetooth Speaker,Electronics,Gordon-White,594.16,1155.14,37,2026-01-27
+75,Webcam,Electronics,"Winters, Parker and Jensen",372.41,589.69,45,2024-04-11
+76,Basketball,Sports,Hale and Sons,45.58,76.54,262,2024-08-17
+77,Dumbbell Set,Sports,Mclaughlin-Acosta,264.42,499.64,55,2025-12-04
+78,Football,Sports,Merritt-Lee,86.69,163.67,743,2024-12-31
+79,Webcam,Electronics,Potter-Bernard,198.47,389.46,90,2024-02-12
+80,USB-C Hub,Electronics,Mathis PLC,423.71,802.15,12,2026-01-31
+81,Notebook,Office,Jenkins-Mccoy,83.57,141.48,615,2025-07-29
+82,Treadmill,Sports,Sweeney PLC,227.45,435.44,128,2024-05-14
+83,SQL Fundamentals,Books,Werner-Sanford,228.82,382.61,139,2024-11-18
+84,Electric Kettle,Home,Phillips-Tucker,260.85,349.01,113,2024-11-06
+85,Ceiling Fan,Home,Chung Ltd,506.53,663.29,26,2024-09-03
+86,Water Bottle,Sports,Cherry-Wilson,11.61,14.34,260,2025-05-07
+87,Gaming Keyboard,Electronics,Harris Inc,32.85,40.12,954,2026-07-14
+88,Football,Sports,Tucker and Sons,69.22,105.14,981,2024-11-06
+89,Laptop Stand,Electronics,"Ali, Rodriguez and Copeland",105.51,170.19,189,2023-10-02
+90,Gaming Keyboard,Electronics,"Reynolds, Ramirez and Sharp",489.28,849.47,38,2025-09-13
+91,Bluetooth Speaker,Electronics,Perez PLC,359.72,681.58,16,2023-12-13
+92,Coffee Maker,Home,Rose PLC,283.44,384.45,60,2025-10-10
+93,Treadmill,Sports,"Moreno, Hendricks and Johnson",69.98,86.99,929,2023-11-20
+94,Paper Shredder,Office,Cordova-King,57.03,70.62,494,2024-09-14
+95,Electric Kettle,Home,Jensen Group,300.3,408.29,35,2025-01-08
+96,Desk Lamp,Office,Gill Inc,425.4,518.92,46,2026-06-13
+97,Running Shoes,Sports,Fowler-Pacheco,215.87,407.46,140,2026-02-04
+98,Water Bottle,Sports,Johnson-Hatfield,425.01,712.71,41,2025-03-20
+99,USB-C Hub,Electronics,Hess-Jennings,81.09,97.66,403,2025-10-22
+100,Whiteboard,Office,Johnson-Delgado,102.38,189.19,162,2025-12-13
+101,Toaster,Home,Obrien Group,534.89,828.78,19,2025-06-11
+102,Webcam,Electronics,"Ayers, Patterson and Roach",355.24,575.38,18,2025-04-21
+103,Yoga Mat,Sports,Myers-Barnes,28.93,57.39,612,2024-11-15
+104,Water Bottle,Sports,Wallace-Roberson,69.1,136.27,841,2026-05-29
+105,Python Programming,Books,"Evans, Davis and Pierce",455.51,836.35,13,2024-11-26
+106,Treadmill,Sports,Watts Group,403.26,524.02,26,2025-06-24
+107,Wireless Mouse,Electronics,Young PLC,451.92,637.28,25,2025-02-06
+108,SQL Fundamentals,Books,"Gutierrez, Murphy and Greene",494.12,815.46,54,2025-03-29
+109,Coffee Maker,Home,Lamb-Williamson,195.88,339.69,66,2025-07-26
+110,Vacuum Cleaner,Home,"Boone, Tate and Carney",34.96,59.03,713,2026-01-22
+111,External SSD,Electronics,Johnson-Johns,391.48,657.04,41,2026-02-03
+112,Treadmill,Sports,Dunn-Collins,386.94,664.93,22,2025-10-07
+113,Treadmill,Sports,Johnson LLC,414.24,766.73,34,2024-04-02
+114,Data Engineering,Books,"Williams, Lang and White",70.21,135.26,301,2025-08-01
+115,Standing Desk,Office,Cruz-Ward,296.12,581.0,174,2025-08-28
+116,Basketball,Sports,Smith-Garcia,156.46,291.76,132,2025-12-22
+117,Running Shoes,Sports,"White, Ferguson and Watson",134.45,235.44,181,2023-10-07
+118,Data Engineering,Books,Lynch-Erickson,353.89,682.86,49,2024-01-16
+119,Yoga Mat,Sports,"Lewis, Clay and Kim",49.53,92.03,470,2024-12-16
+120,Whiteboard,Office,Ward Group,510.39,1002.71,18,2024-03-17
+121,USB-C Hub,Electronics,Finley-Wagner,285.69,460.66,188,2025-01-22
+122,Desk Lamp,Office,Brown-Moore,62.52,77.77,362,2026-07-11
+123,External SSD,Electronics,Kim-Orozco,66.1,128.55,758,2024-10-24
+124,USB-C Hub,Electronics,Brooks PLC,227.93,401.49,196,2026-05-14
+125,Cloud Computing,Books,"Smith, Mueller and Beasley",541.49,1038.55,15,2025-10-29
+126,Yoga Mat,Sports,Leonard-Stevenson,441.26,719.25,50,2026-05-17
+127,Data Engineering,Books,Chavez-Ruiz,557.4,895.5,14,2024-09-18
+128,Artificial Intelligence,Books,Alvarado Ltd,537.56,775.86,18,2024-10-06
+129,Desk Lamp,Office,Grant Group,276.26,526.04,141,2026-06-12
+130,Machine Learning Basics,Books,George Ltd,346.94,538.55,42,2025-04-04
+131,Ceiling Fan,Home,"Walker, Gray and Johnson",560.18,913.81,13,2025-07-08
+132,External SSD,Electronics,Anthony and Sons,328.66,504.5,30,2026-06-29
+133,Dumbbell Set,Sports,Gould-Lynn,499.0,670.59,22,2024-02-07
+134,Dumbbell Set,Sports,"Silva, Long and Watson",186.74,284.33,71,2023-09-06
+135,Desk Organizer,Office,"Palmer, Barker and Davis",407.86,682.08,60,2025-01-24
+136,Whiteboard,Office,Mclaughlin Group,340.22,545.63,39,2025-07-18
+137,Treadmill,Sports,Valdez-Berger,402.1,498.61,12,2025-04-07
+138,Project Management,Books,Miller Inc,145.31,188.08,72,2026-02-09
+139,Artificial Intelligence,Books,Hunt Group,76.37,117.74,706,2025-09-21
+140,Machine Learning Basics,Books,"Taylor, Butler and Mcmahon",114.45,163.35,191,2024-12-27
+141,Machine Learning Basics,Books,Turner Group,206.65,310.37,77,2024-04-22
+142,Water Bottle,Sports,"Hanson, Wilson and Thomas",117.22,200.68,157,2023-09-14
+143,Toaster,Home,King Inc,236.4,330.71,117,2024-03-27
+144,Artificial Intelligence,Books,Smith-Heath,25.12,39.25,519,2025-06-04
+145,Desk Lamp,Office,Smith LLC,271.93,359.59,136,2026-06-12
+146,Monitor,Electronics,Anderson-Moore,93.98,186.55,564,2024-04-12
+147,Machine Learning Basics,Books,"Johnson, Hamilton and Taylor",497.06,758.17,44,2024-09-03
+148,Business Analytics,Books,Rollins PLC,10.2,20.14,997,2024-08-25
+149,Printer,Office,Jones-Hernandez,325.43,529.2,42,2025-12-10
+150,Notebook,Office,"Bates, Rogers and Cohen",529.4,693.5,26,2026-06-16
+151,Treadmill,Sports,"Martinez, Holloway and Bates",99.29,197.59,739,2024-08-13
+152,Dumbbell Set,Sports,"Powers, Williams and Padilla",260.7,442.82,66,2024-12-17
+153,External SSD,Electronics,Miller-Lopez,53.57,107.08,315,2024-07-28
+154,Machine Learning Basics,Books,Page-Mckinney,221.07,398.9,91,2025-05-03
+155,Whiteboard,Office,"Jackson, Knight and Robles",73.7,101.02,936,2025-03-12
+156,Yoga Mat,Sports,Bennett-Shaw,211.62,420.03,61,2025-11-04
+157,Microwave,Home,Hampton-Johnson,338.21,431.39,31,2026-07-02
+158,Bluetooth Speaker,Electronics,"Anderson, Holt and Beasley",222.59,437.37,127,2025-01-21
+159,Running Shoes,Sports,Russell-Ward,164.69,278.82,159,2025-12-18
+160,Coffee Maker,Home,Beck and Sons,525.09,922.9,27,2024-02-19
+161,Monitor,Electronics,"Long, Williams and Johnson",247.22,309.16,173,2024-04-12
+162,Bluetooth Speaker,Electronics,Gutierrez Inc,423.11,708.98,46,2026-04-20
+163,Python Programming,Books,"Jones, Bishop and Gomez",332.56,653.53,56,2024-01-29
+164,Monitor,Electronics,Adams PLC,282.42,463.43,74,2024-03-03
+165,Air Fryer,Home,"Merritt, Mueller and Moore",271.28,415.32,76,2024-12-01
+166,Paper Shredder,Office,"Zhang, Johnson and Torres",377.3,730.19,50,2025-07-12
+167,Basketball,Sports,Young Group,332.09,562.29,44,2025-06-06
+168,Machine Learning Basics,Books,Hudson-Barnes,422.34,703.37,54,2024-05-11
+169,Cloud Computing,Books,Smith LLC,193.85,311.2,195,2025-10-28
+170,Air Fryer,Home,"Davis, Todd and Johnson",203.12,339.35,130,2025-01-11
+171,Gaming Keyboard,Electronics,"Roberts, Cross and Morrison",83.23,108.85,813,2024-11-02
+172,Notebook,Office,Booker-Durham,508.44,927.82,33,2024-09-22
+173,Whiteboard,Office,Chambers-Oliver,534.6,660.55,17,2025-03-25
+174,Laptop Stand,Electronics,"Smith, Smith and Scott",56.38,98.45,263,2023-08-10
+175,Whiteboard,Office,"Heath, Lopez and Campbell",132.21,191.9,155,2025-12-24
+176,Desk Lamp,Office,Hardy-Swanson,313.65,441.6,33,2024-08-07
+177,Python Programming,Books,Hamilton-Bradley,233.6,281.75,56,2025-01-26
+178,Data Engineering,Books,Lee Group,486.13,699.53,47,2025-08-16
+179,Vacuum Cleaner,Home,Leonard Inc,37.71,73.02,584,2025-03-23
+180,Toaster,Home,"Hamilton, Parker and Watson",264.49,404.24,133,2023-08-17
+181,Basketball,Sports,Oconnell PLC,105.48,195.79,129,2025-07-18
+182,Toaster,Home,"Smith, Thomas and Hudson",520.46,828.58,38,2025-02-16
+183,Coffee Maker,Home,"Zavala, Ortiz and Miller",347.01,633.64,29,2025-11-06
+184,Blender,Home,Turner PLC,123.45,198.15,57,2023-08-22
+185,Running Shoes,Sports,Roberson PLC,153.08,279.49,116,2024-09-10
+186,Water Bottle,Sports,Mcmahon-Miller,472.13,889.22,21,2024-04-24
+187,Resistance Bands,Sports,"Moore, Lewis and Marquez",423.35,526.37,35,2026-07-08
+188,Microwave,Home,Callahan-Mejia,145.05,180.29,158,2025-02-09
+189,Office Chair,Office,Guerrero-Hampton,79.86,105.55,385,2026-03-07
+190,Water Bottle,Sports,Daniels Ltd,578.96,916.32,52,2025-07-18
+191,Basketball,Sports,"Davies, Chavez and Carlson",246.73,446.84,67,2026-04-14
+192,Yoga Mat,Sports,Peterson Inc,71.16,95.46,926,2025-03-12
+193,Gaming Keyboard,Electronics,"Hall, Long and Moss",229.78,454.49,178,2024-03-01
+194,Toaster,Home,"Moore, Schaefer and Summers",596.09,718.23,44,2024-01-01
+195,Gaming Keyboard,Electronics,Martinez Inc,290.01,467.79,151,2023-08-04
+196,Treadmill,Sports,Beard-Jackson,595.07,774.95,15,2024-03-27
+197,Paper Shredder,Office,White PLC,272.01,497.36,53,2023-10-19
+198,Ceiling Fan,Home,"Bowman, Norton and Anderson",89.6,159.01,469,2025-02-08
+199,Whiteboard,Office,Lee LLC,54.92,98.0,368,2024-05-26
+200,USB-C Hub,Electronics,Chang-Johnson,321.97,445.3,58,2023-12-16
+201,Resistance Bands,Sports,"Lee, Huerta and Sellers",144.51,213.38,200,2024-08-13
+202,Yoga Mat,Sports,Palmer Inc,282.11,417.6,93,2024-05-19
+203,Electric Kettle,Home,Gay Inc,569.31,762.8,18,2025-03-05
+204,USB-C Hub,Electronics,Koch LLC,307.04,584.27,33,2024-04-05
+205,Coffee Maker,Home,Chaney-Clark,28.55,55.83,460,2024-03-04
+206,Microwave,Home,Burns Ltd,178.27,280.56,87,2023-12-19
+207,Desk Lamp,Office,Lozano Group,75.73,148.1,357,2024-04-21
+208,Basketball,Sports,"Ruiz, Barron and Castillo",464.15,785.26,57,2025-02-13
+209,Dumbbell Set,Sports,Brown-Harris,275.94,530.06,151,2023-10-20
+210,Standing Desk,Office,Sullivan-Velasquez,402.05,689.94,53,2024-12-07
+211,Desk Organizer,Office,James Ltd,110.14,149.05,192,2026-03-06
+212,Artificial Intelligence,Books,Harrison-Smith,414.2,768.64,40,2025-09-09
+213,Coffee Maker,Home,Hill Group,396.48,495.05,14,2023-10-01
+214,Artificial Intelligence,Books,Yang and Sons,577.77,1075.44,26,2025-10-15
+215,Blender,Home,Calderon-Nolan,29.59,49.92,435,2024-01-06
+216,Vacuum Cleaner,Home,"Owen, Knight and Burke",167.39,320.56,134,2026-06-02
+217,Printer,Office,"Nguyen, Hanson and Pham",16.97,32.01,916,2025-02-26
+218,Gaming Keyboard,Electronics,King-Ross,431.94,655.28,40,2025-11-28
+219,Data Engineering,Books,Schroeder-Green,313.37,392.83,37,2026-06-19
+220,Vacuum Cleaner,Home,Irwin-Montgomery,174.52,244.94,142,2024-12-27
+221,Electric Kettle,Home,Barker PLC,262.22,487.91,103,2025-05-21
+222,Project Management,Books,Bailey Inc,416.18,657.6,49,2024-10-21
+223,Desk Organizer,Office,Golden Group,425.7,698.99,10,2025-10-22
+224,Blender,Home,Graves-Chandler,389.75,506.16,44,2026-05-26
+225,Basketball,Sports,Bryant-Mccullough,525.74,940.17,49,2024-05-20
+226,Artificial Intelligence,Books,"Ross, Moreno and Reed",593.02,961.97,59,2024-12-09
+227,Notebook,Office,Jones-Adams,190.58,378.92,173,2024-04-04
+228,Business Analytics,Books,"Jordan, Rodgers and Bray",504.13,647.16,38,2025-12-06
+229,Printer,Office,Mcgrath Group,232.34,285.58,72,2025-03-03
+230,Artificial Intelligence,Books,Keller-Dillon,429.18,575.11,18,2024-09-01
+231,Standing Desk,Office,"Murray, Cobb and Davis",359.51,478.22,25,2025-04-03
+232,Desk Lamp,Office,"Robertson, Cruz and Mosley",99.06,127.81,861,2024-08-06
+233,Cloud Computing,Books,"King, Roth and Marshall",27.75,53.72,360,2026-02-03
+234,Machine Learning Basics,Books,Franklin Group,590.21,952.4,42,2025-11-05
+235,USB-C Hub,Electronics,"Nelson, Griffith and Whitney",108.99,141.35,79,2024-12-17
+236,Bluetooth Speaker,Electronics,Chapman-Williams,145.71,278.48,54,2024-05-22
+237,Monitor,Electronics,"Taylor, Ballard and Gomez",282.17,424.25,61,2025-01-05
+238,Laptop Stand,Electronics,"Decker, Smith and Robertson",431.77,560.16,45,2024-03-22
+239,External SSD,Electronics,"Reynolds, Coleman and Ingram",121.72,183.43,73,2025-06-29
+240,Coffee Maker,Home,Gray-Bray,551.19,765.15,45,2024-01-28
+241,Microwave,Home,"Watson, Edwards and Ramirez",393.43,673.92,15,2026-03-27
+242,Python Programming,Books,"Wiley, Miller and Jenkins",473.84,673.37,60,2026-01-13
+243,Business Analytics,Books,Harris Ltd,125.04,180.99,200,2025-10-16
+244,Air Fryer,Home,"Roberts, Peterson and Obrien",30.57,41.54,991,2025-02-14
+245,Laptop Stand,Electronics,Jones PLC,502.83,766.02,21,2024-04-07
+246,Webcam,Electronics,"Lee, Barron and Turner",492.25,700.55,31,2025-04-17
+247,Artificial Intelligence,Books,Morton PLC,268.15,337.77,55,2023-12-03
+248,Monitor,Electronics,Lopez-Perkins,265.38,508.87,149,2025-10-14
+249,Basketball,Sports,Wade LLC,64.3,77.83,862,2026-01-01
+250,Resistance Bands,Sports,"Warren, Cole and Carey",186.46,236.66,73,2026-03-29
+251,Printer,Office,Ortiz-Smith,10.94,17.04,531,2024-03-24
+252,Monitor,Electronics,"Sanchez, Lee and Marshall",372.33,721.54,47,2025-11-11
+253,Ceiling Fan,Home,Evans-Brown,34.76,58.82,576,2025-09-10
+254,Machine Learning Basics,Books,Hughes Inc,263.64,432.0,125,2025-11-13
+255,Business Analytics,Books,Wheeler-Manning,232.97,414.8,194,2023-08-24
+256,Artificial Intelligence,Books,Boone PLC,103.99,175.28,53,2023-12-25
+257,Machine Learning Basics,Books,"Smith, Johnson and Osborne",328.56,540.95,43,2026-04-09
+258,SQL Fundamentals,Books,"Acevedo, Allen and Smith",288.76,576.37,174,2025-06-14
+259,SQL Fundamentals,Books,Howard-Miller,224.81,336.49,159,2024-09-29
+260,Paper Shredder,Office,"Haynes, Schmidt and Reyes",277.59,350.33,166,2025-03-24
+261,Yoga Mat,Sports,Casey-Beard,419.0,582.16,11,2023-08-21
+262,Bluetooth Speaker,Electronics,Trevino Ltd,264.65,466.11,141,2025-09-11
+263,Running Shoes,Sports,"Brandt, Harris and Russell",234.28,337.87,70,2023-12-02
+264,Python Programming,Books,Martinez-Butler,459.02,910.84,46,2025-12-10
+265,Vacuum Cleaner,Home,"Johnson, Gonzalez and Burnett",565.04,1032.43,33,2025-12-28
+266,Microwave,Home,Ramirez-Oconnell,583.19,754.78,41,2025-05-16
+267,Basketball,Sports,Perez Inc,426.58,740.87,18,2026-01-22
+268,Basketball,Sports,Warren-Smith,237.21,319.74,69,2025-05-15
+269,Bluetooth Speaker,Electronics,Gomez PLC,175.4,295.87,153,2025-10-14
+270,Whiteboard,Office,Vasquez-Esparza,167.1,222.27,172,2023-12-29
+271,Air Fryer,Home,Hendrix-Ward,275.07,508.59,117,2025-11-19
+272,Electric Kettle,Home,Hernandez-Farrell,550.59,707.06,45,2024-03-07
+273,Electric Kettle,Home,"Moore, Smith and Parsons",229.98,429.32,61,2025-03-19
+274,Toaster,Home,"Allen, Elliott and Santos",469.91,611.42,46,2026-05-28
+275,Office Chair,Office,"Kirby, Nelson and May",508.29,759.25,10,2025-08-28
+276,Python Programming,Books,Walter Inc,563.48,698.62,50,2026-01-22
+277,Football,Sports,"Gates, Smith and Jones",555.95,1066.75,36,2025-02-15
+278,Coffee Maker,Home,Hall-Hill,281.02,384.72,84,2026-04-29
+279,Ceiling Fan,Home,Ochoa-Miller,595.21,953.81,45,2024-07-05
+280,Project Management,Books,Rodriguez-Hughes,533.58,1018.28,27,2023-12-15
+281,Wireless Mouse,Electronics,Rodriguez-Sanders,62.49,100.99,729,2024-04-24
+282,Office Chair,Office,"Russell, Rodriguez and Fleming",416.42,738.59,25,2024-04-29
+283,Bluetooth Speaker,Electronics,Harrison LLC,596.27,750.1,44,2024-03-10
+284,Coffee Maker,Home,Kennedy PLC,294.07,366.74,139,2024-07-02
+285,Python Programming,Books,Thompson-Moore,63.97,106.16,201,2023-08-29
+286,Business Analytics,Books,"Lawson, Warren and Brown",507.87,969.39,16,2024-10-16
+287,Webcam,Electronics,"Cochran, Moore and Soto",119.7,151.38,61,2023-08-06
+288,Blender,Home,Sanchez and Sons,568.73,1074.76,38,2026-04-14
+289,Bluetooth Speaker,Electronics,"Jenkins, Donovan and Delgado",127.77,156.68,68,2024-06-30
+290,Resistance Bands,Sports,Wilcox-Murphy,411.49,495.3,40,2024-11-01
+291,Air Fryer,Home,Curtis-Moreno,527.58,875.36,29,2024-04-05
+292,Project Management,Books,Mendez-Henderson,422.48,583.7,51,2024-07-06
+293,Desk Organizer,Office,"Robinson, Holt and Davidson",253.79,417.3,104,2025-04-07
+294,Resistance Bands,Sports,Lowe-Mcneil,87.59,123.12,683,2026-06-13
+295,Monitor,Electronics,Gordon PLC,503.44,639.61,49,2024-10-16
+296,Business Analytics,Books,"Mitchell, Baker and Palmer",586.67,798.9,29,2025-08-03
+297,SQL Fundamentals,Books,Brown LLC,135.8,246.67,68,2025-02-08
+298,External SSD,Electronics,Sandoval-Jones,206.05,272.6,193,2024-11-29
+299,Artificial Intelligence,Books,Gilmore-Roberts,140.85,189.66,169,2024-03-26
+300,Blender,Home,"Garcia, Young and White",582.78,1064.7,56,2024-05-04
+301,Ceiling Fan,Home,Park Group,161.06,291.7,111,2026-06-09
+302,Vacuum Cleaner,Home,Thompson-Roberts,258.2,322.33,119,2025-01-07
+303,Artificial Intelligence,Books,"Thomas, Brown and Clark",32.96,50.87,398,2024-05-03
+304,Machine Learning Basics,Books,"Lynch, Kim and Martinez",593.94,1186.2,29,2025-09-23
+305,Machine Learning Basics,Books,Thomas-Carr,332.83,657.05,30,2025-10-24
+306,Whiteboard,Office,Howard-Mann,553.47,1017.41,50,2024-02-13
+307,Toaster,Home,Robinson Ltd,549.85,897.44,31,2023-09-25
+308,Coffee Maker,Home,Larsen-Salazar,272.85,424.41,120,2024-02-26
+309,Monitor,Electronics,Lewis Ltd,222.46,377.27,140,2023-11-25
+310,Webcam,Electronics,"Kaufman, Meyer and Randall",576.94,765.93,46,2025-04-19
+311,Notebook,Office,"Levy, Kelley and Patterson",360.5,588.58,31,2023-08-06
+312,Air Fryer,Home,"Thomas, Johnson and Wheeler",35.08,59.75,516,2024-10-10
+313,Gaming Keyboard,Electronics,Atkins PLC,534.8,684.43,15,2023-08-12
+314,Laptop Stand,Electronics,"Kelley, Miller and Burns",469.56,917.11,16,2024-06-08
+315,Python Programming,Books,"Cohen, Jones and Rios",93.97,173.31,921,2024-11-16
+316,Water Bottle,Sports,"Bowers, Brooks and Gonzales",41.85,73.75,372,2024-02-09
+317,Monitor,Electronics,Martin LLC,433.08,648.22,24,2025-07-03
+318,Electric Kettle,Home,"White, Parks and Hill",422.19,534.71,21,2025-07-04
+319,Gaming Keyboard,Electronics,White-Porter,403.45,542.96,30,2023-12-12
+320,Project Management,Books,Howard Inc,524.43,654.29,20,2026-06-08
+321,Yoga Mat,Sports,Robinson-Baker,56.57,72.91,419,2024-06-17
+322,Paper Shredder,Office,"Alvarez, Cox and Gallagher",580.3,1000.29,53,2026-06-29
+323,Data Engineering,Books,"Phillips, Edwards and Hernandez",269.69,515.78,136,2025-03-07
+324,Laptop Stand,Electronics,Simmons-Patterson,176.69,347.14,176,2024-10-14
+325,Laptop Stand,Electronics,Mccullough Ltd,425.47,798.02,39,2024-05-09
+326,Python Programming,Books,Mitchell LLC,559.14,987.8,47,2025-10-22
+327,Coffee Maker,Home,"Gomez, Lopez and Davis",548.94,951.39,14,2024-12-15
+328,Wireless Mouse,Electronics,Moore and Sons,589.71,843.45,53,2025-08-02
+329,Machine Learning Basics,Books,Santos Inc,582.2,1058.61,10,2026-03-07
+330,Desk Lamp,Office,"Washington, Jones and Wilson",11.77,17.4,232,2025-03-30
+331,Whiteboard,Office,Estes-Martin,36.91,62.35,978,2024-03-10
+332,Air Fryer,Home,Kemp-Brown,52.49,75.58,828,2025-06-23
+333,USB-C Hub,Electronics,Castro-Richard,594.39,873.43,49,2025-01-20
+334,Business Analytics,Books,"Thompson, Phillips and Luna",576.31,857.17,58,2024-06-21
+335,Paper Shredder,Office,Alvarez Inc,414.75,610.67,12,2026-05-06
+336,Toaster,Home,Delacruz-Beard,51.69,64.48,698,2024-04-23
+337,Python Programming,Books,Davis Group,390.03,592.15,37,2026-06-29
+338,Python Programming,Books,Lindsey Ltd,53.48,80.73,649,2025-12-28
+339,Basketball,Sports,Casey Inc,36.01,63.25,447,2023-11-03
+340,Basketball,Sports,Jackson and Sons,419.69,545.7,23,2026-02-22
+341,Printer,Office,Salinas-Vargas,190.99,335.97,145,2023-12-30
+342,Notebook,Office,Griffin Group,11.64,18.54,586,2024-01-02
+343,Paper Shredder,Office,"Carlson, Torres and Gregory",203.57,279.78,139,2025-08-26
+344,Gaming Keyboard,Electronics,Price Inc,301.01,598.5,30,2025-12-31
+345,Vacuum Cleaner,Home,Cabrera-Bell,540.32,727.77,16,2026-02-16
+346,Basketball,Sports,Pruitt-Jordan,118.42,147.9,97,2024-04-27
+347,Business Analytics,Books,"Ford, Mueller and Mclaughlin",139.11,191.56,134,2024-05-27
+348,Gaming Keyboard,Electronics,Carter-Becker,18.99,34.75,785,2024-05-14
+349,Monitor,Electronics,Rodriguez-Williams,504.97,624.71,25,2026-06-11
+350,Monitor,Electronics,Smith-Mckenzie,311.16,433.88,19,2025-04-01
+351,Gaming Keyboard,Electronics,"Fowler, Cain and Schmidt",236.58,367.94,84,2024-06-12
+352,Python Programming,Books,Rhodes-Hayes,176.14,306.95,166,2024-11-10
+353,Ceiling Fan,Home,Brown-Carney,200.73,331.7,97,2024-02-16
+354,Bluetooth Speaker,Electronics,Garcia-Mcintyre,360.12,603.16,37,2024-09-25
+355,Vacuum Cleaner,Home,"Gordon, Smith and Bell",243.19,336.76,111,2025-02-24
+356,Running Shoes,Sports,Booth Ltd,480.43,916.56,19,2026-01-25
+357,Resistance Bands,Sports,"Thompson, Washington and Mack",218.7,295.08,115,2023-08-20
+358,Treadmill,Sports,"Santos, Torres and Shaw",535.06,939.52,18,2025-07-18
+359,Laptop Stand,Electronics,Howard PLC,77.58,142.82,365,2024-05-11
+360,Notebook,Office,Wells-Cox,116.75,180.4,93,2024-02-18
+361,Bluetooth Speaker,Electronics,"Price, Morton and Grant",49.84,95.97,737,2025-03-16
+362,Laptop Stand,Electronics,Foley-Simmons,436.45,763.4,46,2023-08-08
+363,Monitor,Electronics,Johnson Ltd,72.79,93.87,647,2025-03-23
+364,Paper Shredder,Office,Villa Ltd,206.07,338.05,200,2026-02-20
+365,Ceiling Fan,Home,"Johnson, Combs and George",417.26,657.75,55,2026-06-23
+366,Monitor,Electronics,"Barrett, Roth and Duncan",338.05,417.68,13,2024-04-06
+367,Blender,Home,"Acosta, Miller and Ward",292.46,530.08,105,2024-06-09
+368,Monitor,Electronics,Shaw-Black,369.11,488.58,47,2024-12-08
+369,Running Shoes,Sports,"Andersen, Norman and Schultz",484.19,687.98,29,2025-10-30
+370,Gaming Keyboard,Electronics,Beck-Smith,597.3,782.75,56,2024-05-18
+371,Running Shoes,Sports,Cook-Mitchell,10.72,14.39,418,2024-05-30
+372,Data Engineering,Books,Ray-Evans,326.63,555.34,24,2026-02-09
+373,Office Chair,Office,Rodriguez-Russell,44.9,57.07,485,2025-10-27
+374,Basketball,Sports,"Pollard, Green and Perry",396.35,707.45,57,2024-02-06
+375,SQL Fundamentals,Books,Robles Ltd,48.96,96.9,568,2026-03-08
+376,Machine Learning Basics,Books,Peters-Stewart,423.65,736.52,57,2026-03-11
+377,Bluetooth Speaker,Electronics,Lopez Inc,31.31,42.78,251,2024-09-30
+378,Vacuum Cleaner,Home,Tate Ltd,139.22,181.68,162,2025-01-11
+379,Resistance Bands,Sports,Morrison Group,511.79,666.22,16,2025-12-16
+380,Paper Shredder,Office,West Ltd,433.53,534.6,59,2026-02-05
+381,Desk Lamp,Office,"Perez, Hughes and Cunningham",256.58,489.83,154,2025-11-20
+382,Toaster,Home,Miller-Jackson,126.25,220.4,64,2024-04-14
+383,Blender,Home,Avila PLC,561.59,871.57,39,2025-05-16
+384,Toaster,Home,"Hayes, Munoz and Taylor",542.83,693.07,44,2024-07-14
+385,Office Chair,Office,"Ho, Bryant and Gonzales",463.06,808.98,51,2024-03-27
+386,Desk Lamp,Office,Brady Inc,255.27,486.74,68,2025-06-02
+387,Basketball,Sports,"Jackson, Hensley and Kelly",233.09,393.11,90,2023-12-22
+388,Machine Learning Basics,Books,Andrade-Poole,80.41,147.0,469,2026-02-09
+389,Printer,Office,Barrera Group,49.46,74.67,366,2024-06-17
+390,Desk Lamp,Office,Dickerson Inc,482.86,657.86,17,2026-02-06
+391,Treadmill,Sports,"Potter, White and Wright",18.26,22.73,615,2023-09-25
+392,Project Management,Books,Morgan-Reed,581.62,892.29,35,2025-05-17
+393,Yoga Mat,Sports,"Smith, Blackwell and Jones",236.07,415.56,89,2026-02-17
+394,Monitor,Electronics,Contreras-Hahn,223.61,279.14,198,2023-08-17
+395,Electric Kettle,Home,"Moody, Braun and Dickerson",187.3,230.18,160,2026-02-01
+396,Football,Sports,"Shields, Dyer and Green",414.07,697.18,22,2025-11-27
+397,Whiteboard,Office,"Bennett, Barrett and Cook",212.84,306.88,146,2024-10-12
+398,Desk Organizer,Office,"Hawkins, Curtis and Henry",121.97,228.96,148,2024-10-20
+399,Whiteboard,Office,Davis-Richardson,530.42,686.35,28,2024-01-14
+400,Printer,Office,Solomon-Ruiz,137.7,210.51,85,2024-09-29
+401,Microwave,Home,Sherman Ltd,167.27,220.97,181,2025-05-13
+402,Python Programming,Books,Jones Ltd,324.94,518.08,48,2023-09-03
+403,SQL Fundamentals,Books,Hester Ltd,446.54,868.18,19,2024-07-03
+404,Printer,Office,Stone-Bell,545.39,964.78,52,2024-10-07
+405,Artificial Intelligence,Books,"Serrano, Carr and Hill",165.57,225.31,136,2023-08-31
+406,Office Chair,Office,Smith PLC,434.9,856.72,28,2024-09-18
+407,Running Shoes,Sports,"Ritter, Robinson and Wilson",534.49,926.47,33,2025-07-28
+408,Machine Learning Basics,Books,"Rogers, Gay and Cook",142.7,201.01,101,2024-03-28
+409,USB-C Hub,Electronics,Nunez PLC,55.75,98.41,574,2023-10-01
+410,Cloud Computing,Books,"Rodriguez, Nguyen and Le",249.34,373.78,118,2025-02-09
+411,Ceiling Fan,Home,"Cooper, Brown and Mcgrath",469.23,709.63,54,2026-03-13
+412,Data Engineering,Books,Brown-Hernandez,304.63,559.56,35,2025-09-22
+413,Data Engineering,Books,Harris Ltd,435.83,851.7,50,2026-03-13
+414,Blender,Home,"Tanner, Perry and Rosario",222.69,309.97,144,2026-02-21
+415,Cloud Computing,Books,Davis-Love,594.77,842.6,34,2025-04-04
+416,Artificial Intelligence,Books,Fernandez Group,577.74,722.68,23,2026-07-05
+417,Vacuum Cleaner,Home,"Williamson, Thornton and Briggs",56.66,83.55,578,2026-05-11
+418,Wireless Mouse,Electronics,"Mack, Hernandez and Sutton",347.89,674.99,49,2026-02-06
+419,Air Fryer,Home,"Perez, Ford and Pearson",490.71,661.62,35,2025-11-15
+420,Business Analytics,Books,"Weaver, Williams and Dillon",200.63,391.62,197,2025-05-10
+421,Water Bottle,Sports,Cobb Group,188.23,293.14,78,2023-11-20
+422,Notebook,Office,Singh-Barton,277.39,550.53,84,2024-12-13
+423,Paper Shredder,Office,Collins-Martinez,468.38,782.57,17,2024-08-07
+424,Vacuum Cleaner,Home,"Clark, Peck and Morris",237.04,461.4,123,2025-04-23
+425,External SSD,Electronics,Snow-Davis,393.89,656.54,25,2024-08-17
+426,Whiteboard,Office,Johnson-Alvarez,491.78,708.56,30,2024-10-17
+427,Blender,Home,Miller-Mills,433.85,540.0,46,2024-07-13
+428,Football,Sports,Pitts Inc,398.09,623.54,16,2025-07-04
+429,Wireless Mouse,Electronics,Lee PLC,325.15,568.69,17,2024-09-05
+430,Resistance Bands,Sports,"Castillo, Petersen and Ingram",552.65,726.0,17,2025-01-15
+431,Webcam,Electronics,Taylor-Garrett,440.63,686.2,45,2026-04-24
+432,Microwave,Home,"Marquez, Oconnor and Johnson",102.29,152.43,121,2024-08-31
+433,Whiteboard,Office,"Gonzalez, Foster and Coleman",534.62,857.74,39,2024-01-10
+434,Electric Kettle,Home,Stevens-Reyes,508.04,874.03,53,2026-06-21
+435,Yoga Mat,Sports,Nelson-Summers,76.33,103.44,367,2025-07-12
+436,Monitor,Electronics,Barnes-Butler,480.01,912.14,19,2025-09-16
+437,Desk Organizer,Office,Ellison-Johnson,283.05,369.56,160,2023-08-09
+438,Resistance Bands,Sports,Osborn-Mayo,249.98,338.97,50,2024-11-10
+439,External SSD,Electronics,Taylor-Patton,547.51,939.84,12,2026-06-14
+440,Vacuum Cleaner,Home,"Acevedo, Charles and Fuller",490.07,953.65,14,2025-02-23
+441,Webcam,Electronics,Montgomery-Tate,202.04,326.36,61,2024-07-09
+442,Wireless Mouse,Electronics,Lane PLC,553.26,878.07,53,2024-11-01
+443,Office Chair,Office,Williamson-Collins,48.77,65.79,674,2025-09-21
+444,Desk Lamp,Office,Combs Inc,261.0,439.36,108,2024-11-20
+445,SQL Fundamentals,Books,Allen and Sons,463.85,637.37,35,2023-10-10
+446,SQL Fundamentals,Books,"Higgins, Howard and Johnson",301.68,401.71,12,2024-08-16
+447,Desk Lamp,Office,"Johnson, Daugherty and Campbell",126.89,215.45,139,2024-11-11
+448,Whiteboard,Office,"Martinez, Bell and Davis",113.85,202.27,97,2023-11-24
+449,Cloud Computing,Books,"Pham, Newton and Benson",472.61,697.18,56,2026-06-29
+450,Microwave,Home,Fletcher LLC,498.08,940.3,53,2023-08-24
+451,Standing Desk,Office,"Duffy, Hodge and James",97.53,128.8,909,2025-11-27
+452,Football,Sports,Smith-Robinson,422.59,571.38,43,2025-08-07
+453,Business Analytics,Books,Allen-Mcmahon,10.84,16.16,685,2024-06-14
+454,Paper Shredder,Office,Henderson Ltd,143.05,197.6,159,2025-10-26
+455,Webcam,Electronics,Coleman Inc,583.48,919.35,15,2023-10-08
+456,Laptop Stand,Electronics,Peterson Group,36.88,49.79,821,2023-09-12
+457,Dumbbell Set,Sports,"Larsen, Lee and Bishop",461.05,850.89,22,2023-11-03
+458,Yoga Mat,Sports,Khan-Combs,68.22,108.68,359,2023-09-29
+459,Dumbbell Set,Sports,"Mitchell, Williams and Wilcox",218.99,410.88,191,2023-11-01
+460,Office Chair,Office,"Pitts, Chapman and Copeland",426.59,840.78,41,2024-02-08
+461,Basketball,Sports,Foster LLC,325.14,457.35,35,2026-02-24
+462,Football,Sports,Sullivan-Olson,201.34,363.02,83,2023-12-17
+463,Standing Desk,Office,Mcgee-Lynch,588.01,1159.17,54,2026-06-04
+464,Office Chair,Office,Smith-Reynolds,571.85,1106.94,42,2026-04-01
+465,Gaming Keyboard,Electronics,"Jenkins, Stone and Olson",455.08,652.42,19,2025-12-26
+466,Vacuum Cleaner,Home,Williams and Sons,433.24,750.37,53,2024-01-07
+467,Office Chair,Office,Jefferson Inc,443.21,657.28,13,2025-02-17
+468,Running Shoes,Sports,"Coleman, Dawson and Nguyen",494.42,837.72,31,2026-01-25
+469,Paper Shredder,Office,"Nolan, Nelson and Mills",397.09,762.48,25,2024-11-26
+470,Football,Sports,Grant-Evans,49.33,84.76,744,2024-11-26
+471,External SSD,Electronics,Hopkins LLC,244.12,447.81,120,2026-05-31
+472,USB-C Hub,Electronics,"Leblanc, Martinez and Thompson",13.72,23.81,434,2026-04-25
+473,Data Engineering,Books,Cooper Ltd,465.58,801.99,30,2024-01-20
+474,Notebook,Office,Rios and Sons,534.2,671.7,59,2024-08-07
+475,Running Shoes,Sports,"Gonzalez, Silva and Smith",246.76,307.43,123,2026-04-16
+476,Football,Sports,Rojas Inc,346.84,616.01,52,2025-03-16
+477,Toaster,Home,Gonzales PLC,47.32,84.44,687,2024-10-23
+478,Webcam,Electronics,Freeman-Randolph,197.87,327.46,94,2023-09-16
+479,Webcam,Electronics,Kim-Erickson,61.02,120.93,474,2024-04-09
+480,Gaming Keyboard,Electronics,Long-Woods,344.07,665.65,31,2025-06-25
+481,Toaster,Home,Fisher PLC,170.26,281.89,73,2024-01-23
+482,Artificial Intelligence,Books,"Cooley, Barber and Johnson",359.53,492.27,30,2024-11-15
+483,Treadmill,Sports,"Manning, Brady and Solis",221.07,297.98,172,2025-06-18
+484,Bluetooth Speaker,Electronics,Rodriguez-Bailey,20.71,27.65,362,2026-05-17
+485,Gaming Keyboard,Electronics,Schneider and Sons,377.42,649.78,16,2025-12-22
+486,Desk Lamp,Office,"Hicks, Sawyer and James",98.31,123.74,406,2024-07-05
+487,Machine Learning Basics,Books,Alvarez-Giles,453.62,700.39,49,2025-12-04
+488,Treadmill,Sports,Reyes-Stephens,323.87,556.35,35,2025-04-15
+489,Laptop Stand,Electronics,"King, Reynolds and Sanford",137.22,182.77,175,2023-11-02
+490,Football,Sports,Faulkner PLC,57.14,96.08,988,2024-10-14
+491,Office Chair,Office,Moore-Smith,268.33,405.59,57,2023-10-01
+492,Resistance Bands,Sports,Stone Ltd,420.32,828.48,44,2026-01-18
+493,Cloud Computing,Books,"Wood, Johns and Cooley",392.76,603.39,25,2024-09-30
+494,Printer,Office,Schultz-Lewis,129.78,218.3,147,2023-12-13
+495,Electric Kettle,Home,"Barnes, Miller and Clark",121.14,237.8,198,2025-04-16
+496,Vacuum Cleaner,Home,Fox-Alvarez,147.57,194.17,90,2024-09-02
+497,Gaming Keyboard,Electronics,"Shelton, Mcgee and Good",217.66,265.29,139,2024-10-03
+498,Water Bottle,Sports,Mitchell-Martinez,170.65,243.39,166,2024-08-31
+499,Ceiling Fan,Home,King and Sons,14.06,17.43,343,2024-01-20
+500,Treadmill,Sports,Cannon Inc,243.43,352.33,161,2023-09-24
